@@ -1,0 +1,19 @@
+! Title: MZR DNS Checker - Community Blocklist
+! Description: Community-reported harmful domains
+! Last modified: 2025-09-20T06:39:28.952Z
+! Entries: 4
+! Homepage: https://dns.zainriaz.dev
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+!
+! === MZR DNS Checker Community Blocklist ===
+! بسم الله الرحمن الرحيم
+!
+! === OTHER DOMAINS ===
+||gambling.com^
+! Nothing
+||zainriaz.dev^
+
+! === SOCIAL DOMAINS ===
+||hellocoder.org^
+||nothing.com^
+
