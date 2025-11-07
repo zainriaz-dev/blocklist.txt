@@ -11,9 +11,9 @@
 ! === OTHER DOMAINS ===
 ||gambling.com^
 ! Nothing
-||zainriaz.dev^
+||777pk.xyz^
 
 ! === SOCIAL DOMAINS ===
-||hellocoder.org^
-||nothing.com^
+||gamble.org^
+||gamble.com^
 
